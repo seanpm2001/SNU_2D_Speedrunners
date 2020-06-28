@@ -1,0 +1,21 @@
+# Speedrun decompiler
+# Grabs assembly game data
+
+# Grabs C game data
+
+# Grabs C++ Game data
+
+# Grabs Java Game data
+
+# Grabs Flash game data
+
+# Grabs Python game data
+
+# Compile
+x_coord = int(0)
+y_coord = int(1)
+z_coord = int(0)
+print ("Speedrun anti-cheat compiler")
+print ("Version 1.00 (September 28th 2019 build")
+print ("Checking for splices...")
+spliceRun1 = bool
